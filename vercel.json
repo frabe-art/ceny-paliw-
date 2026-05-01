@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "rewrites": [
+    { "source": "/api/ceny", "destination": "/api/ceny.js" }
+  ]
+}
