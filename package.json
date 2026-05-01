@@ -1,6 +1,0 @@
-{
-  "name": "ceny-paliw",
-  "version": "1.0.0",
-  "description": "Maksymalne ceny paliw w Polsce",
-  "engines": { "node": ">=18" }
-}
